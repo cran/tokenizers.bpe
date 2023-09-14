@@ -1,7 +1,7 @@
 Package: tokenizers.bpe
 Type: Package
 Title: Byte Pair Encoding Text Tokenization
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: c(person('Jan', 'Wijffels', role = c('aut', 'cre', 'cph'), email = 'jwijffels@bnosac.be', comment = "R wrapper"), 
     person('BNOSAC', role = 'cph', comment = "R wrapper"), 
     person('VK.com', role = 'cph'), 
@@ -19,7 +19,7 @@ Depends: R (>= 2.10)
 Imports: Rcpp (>= 0.11.5)
 LinkingTo: Rcpp
 NeedsCompilation: yes
-Packaged: 2023-01-04 16:25:16 UTC; jwijf
+Packaged: 2023-09-14 07:51:41 UTC; jwijf
 Author: Jan Wijffels [aut, cre, cph] (R wrapper),
   BNOSAC [cph] (R wrapper),
   VK.com [cph],
@@ -29,4 +29,4 @@ Author: Jan Wijffels [aut, cre, cph] (R wrapper),
     License, Version 2.0),
   Ivan Belonogov [ctb, cph] (Files at src/youtokentome (MIT License))
 Repository: CRAN
-Date/Publication: 2023-01-06 10:20:02 UTC
+Date/Publication: 2023-09-14 14:10:02 UTC

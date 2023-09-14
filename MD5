@@ -1,7 +1,7 @@
-c9cd7c450f88df3df8248c5cb31a20fe *DESCRIPTION
+ba7f91533df67bd7b9941a63e800b96a *DESCRIPTION
 8e732c828363b6f9cb1153dc9e82c783 *LICENSE.note
 cc47f91e27f128162ac3cff3983dd6d1 *NAMESPACE
-b73535cbdbeee69ef13de13b25449206 *NEWS.md
+9207ba71fe65bf59641fdf27e3cf1ff8 *NEWS.md
 893776aebed6dfdd4508a13b56dc42af *R/RcppExports.R
 420572a0dbd6c52c1fc8e8e4e94ace44 *R/data.R
 609986c3b6f0c1a20f3e6eb402de8f6f *R/pkg.R
@@ -14,7 +14,7 @@ bb388e4fad0f8f41267444f816608394 *man/belgium_parliament.Rd
 53ae76945c3bddc2405b24a5be0e5b84 *man/bpe_decode.Rd
 16689802066ee16c9b8bd162e46dc55e *man/bpe_encode.Rd
 190a1a528b05432c7de0ebe53e1d676e *man/bpe_load_model.Rd
-877d3eb2ee7e3cc236a1b50f93ca4c63 *src/Makevars
+1d63820e4bbef76386de887a9cbc9d35 *src/Makevars
 f8f4cf2f44fd995c6a495af20e964b5a *src/RcppExports.cpp
 454c310bd385e7eb7d0ffc015b1d19ba *src/parallel_hashmap/meminfo.h
 f607f3a4ba7ae55eca263f86f38ea495 *src/parallel_hashmap/phmap.h
